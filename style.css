@@ -15,7 +15,7 @@
 }    
 @media (min-width:961px) {
     p {
-        font-size: 30px
+        font-size: 30px 
     }
 }
 @media (min-width:1025px) {
