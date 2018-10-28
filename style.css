@@ -1,3 +1,11 @@
+* {
+    font-family: Krub;
+}
+
+h1 {
+    font-family: Spicy Rice;
+}
+
 .menu {
     text-align: right;
 }
@@ -5,7 +13,7 @@
 .menu__links-item {
     display: inline-block;
     color: #333333;
-    font-family: Arial;
+    font-family: Spicy Rice;
     font-size: 14px;
     line-height: 30px;
     padding: 0 10px;
